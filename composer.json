@@ -1,0 +1,14 @@
+	"name": "tests/sample_composer_package",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://asweedy.online",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sifoune aissa",
+            "email": "aissa23sifoune@gmail.com",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
